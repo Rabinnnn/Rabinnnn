@@ -27,7 +27,6 @@ As a software developer with a background in electronics engineering, I speciali
 
 ## Latest Blog Posts
 
-Currently, I don't have any blog posts published. Check back later for updates!
 <a href="https://dev.to/otienorabin/are-you-writing-your-git-commit-messages-properly-54cl" target="_blank" rel="noopener noreferrer"><Icon /> Dev.to</a>
 
 
