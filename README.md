@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Rabin Otieno**, a passionate software developer and electronics engineer. I love creating innovative solutions that blend technology and design. 
+I'm **Rabin Otieno**, a passionate software developer and electronics engineer. I love creating innovative solutions that blend technology and design. Let's build something amazing together!
 
 ## About Me
 
@@ -8,20 +8,20 @@ As a software developer with a background in electronics engineering, I speciali
 
 ## Skills & Technologies
 
-go,javascript,php,html,css,django,flask,graphql,mongodb,git,docker,aws,linux,react,vue,flutter
+[![My Skills](https://skillicons.dev/icons?i=go,html,css,django,flask,graphql,mongodb,git,docker,aws,linux,react,vue,flutter&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [forum](https://github.com/Rabinnnn/forum): A web forum that allows communication between users, associating categories to posts, liking and disliking posts and comments. **Stars**: 0, **Language**: Go
-- [land_use_change_analysis](https://github.com/Rabinnnn/land_use_change_analysis): A Django application that analyzes land use changes over time using aerial images. **Stars**: 0, **Language**: Python
-- [netfix](https://github.com/Rabinnnn/netfix): A B2C platform built using Django, HTML, CSS, and JavaScript. **Stars**: 0, **Language**: HTML
+[![forum](https://github-readme-stats.vercel.app/api/pin/?username=Rabinnnn&repo=forum&theme=dark)](https://github.com/Rabinnnn/forum)
+[![land_use_change_analysis](https://github-readme-stats.vercel.app/api/pin/?username=Rabinnnn&repo=land_use_change_analysis&theme=dark)](https://github.com/Rabinnnn/land_use_change_analysis)
+[![netfix](https://github-readme-stats.vercel.app/api/pin/?username=Rabinnnn&repo=netfix&theme=dark)](https://github.com/Rabinnnn/netfix)
 
 ## GitHub Stats
-
 ✨ **Public Repositories**: 59  
 👥 **Followers**: 47  
 👤 **Following**: 37  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabinnnn&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabinnnn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -31,10 +31,10 @@ go,javascript,php,html,css,django,flask,graphql,mongodb,git,docker,aws,linux,rea
 - Contributed to the [piscine-rust](https://github.com/Rabinnnn/piscine-rust) repository with Rust exercises.
 - Participated in discussions and code reviews for multiple repositories.
 
-## Blog Posts
+## Latest Blog Posts
 
-{"Dev.to":"https://dev.to/otienorabin/are-you-writing-your-git-commit-messages-properly-54cl"}
+Currently, I don't have any blog posts published. Check back later for updates!
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/rabin-otieno-0b0a62185"}
+<a href="https://www.linkedin.com/in/rabin-otieno-0b0a62185" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
