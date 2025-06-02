@@ -1,27 +1,40 @@
-## Hi there 👋
+## Hi there! 👋
 
-# 💫About Me :
-I'm a Full-stack software developer. 
+I'm **Rabin Otieno**, a passionate software developer and electronics engineer. I love creating innovative solutions that blend technology and design. 
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rabin-otieno-0b0a62185) 
+## About Me
 
-# 💻Tech Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Rabinnnn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rabinnnn&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabinnnn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+As a software developer with a background in electronics engineering, I specialize in building dynamic applications and engaging user experiences. Currently, I'm based in Kenya, and I'm always eager to take on new challenges in technology and design.
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Rabinnnn&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+## Skills & Technologies
 
-### 🧑‍💻Random Cyber Quote
-![](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=gruvbox)
+go,javascript,php,html,css,django,flask,graphql,mongodb,git,docker,aws,linux,react,vue,flutter
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Top Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=Rabinnnn&icon=0&color=0)](https://visitcount.itsvg.in)
+- [forum](https://github.com/Rabinnnn/forum): A web forum that allows communication between users, associating categories to posts, liking and disliking posts and comments. **Stars**: 0, **Language**: Go
+- [land_use_change_analysis](https://github.com/Rabinnnn/land_use_change_analysis): A Django application that analyzes land use changes over time using aerial images. **Stars**: 0, **Language**: Python
+- [netfix](https://github.com/Rabinnnn/netfix): A B2C platform built using Django, HTML, CSS, and JavaScript. **Stars**: 0, **Language**: HTML
 
+## GitHub Stats
+
+✨ **Public Repositories**: 59  
+👥 **Followers**: 47  
+👤 **Following**: 37  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabinnnn&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed updates to the [forum](https://github.com/Rabinnnn/forum) repository on **June 2, 2025**.
+- Added new features for user sessions in the [forum](https://github.com/Rabinnnn/forum) project.
+- Implemented new functionalities for land use change analysis on **April 22, 2025**.
+- Contributed to the [piscine-rust](https://github.com/Rabinnnn/piscine-rust) repository with Rust exercises.
+- Participated in discussions and code reviews for multiple repositories.
+
+## Blog Posts
+
+{"Dev.to":"https://dev.to/otienorabin/are-you-writing-your-git-commit-messages-properly-54cl"}
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/rabin-otieno-0b0a62185"}
