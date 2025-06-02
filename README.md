@@ -23,17 +23,13 @@ As a software developer with a background in electronics engineering, I speciali
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabinnnn&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabinnnn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Recent Activity
 
-- Pushed updates to the [forum](https://github.com/Rabinnnn/forum) repository on **June 2, 2025**.
-- Added new features for user sessions in the [forum](https://github.com/Rabinnnn/forum) project.
-- Implemented new functionalities for land use change analysis on **April 22, 2025**.
-- Contributed to the [piscine-rust](https://github.com/Rabinnnn/piscine-rust) repository with Rust exercises.
-- Participated in discussions and code reviews for multiple repositories.
 
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts published. Check back later for updates!
+<a href="https://dev.to/otienorabin/are-you-writing-your-git-commit-messages-properly-54cl" target="_blank" rel="noopener noreferrer"><Icon /> Dev.to</a>
+
 
 ## Connect with Me
 
