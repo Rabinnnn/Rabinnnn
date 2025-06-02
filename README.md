@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Rabin Otieno**, a passionate software developer and electronics engineer. I love creating innovative solutions that blend technology and design. Let's build something amazing together!
+I'm **Rabin Otieno**, a passionate software developer and electronics engineer. I love creating innovative solutions that blend technology and design.
 
 ## About Me
 
