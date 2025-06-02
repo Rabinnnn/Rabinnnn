@@ -8,7 +8,7 @@ As a software developer with a background in electronics engineering, I speciali
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=go,html,css,django,flask,graphql,mongodb,git,docker,aws,linux,react,vue,flutter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,html,css,bootstrap,laravel,php,django,sqlite,git,docker,androidstudio,figma,linux,react,tailwind&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
