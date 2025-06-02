@@ -4,7 +4,7 @@ I'm **Rabin Otieno**, a passionate software developer and electronics engineer. 
 
 ## About Me
 
-As a software developer with a background in electronics engineering, I specialize in building dynamic applications and engaging user experiences. Currently, I'm based in Kenya, and I'm always eager to take on new challenges in technology and design.
+As a software developer, I specialize in building dynamic applications and engaging user experiences. Currently, I'm based in Kenya, and I'm always eager to take on new challenges in technology and design.
 
 ## Skills & Technologies
 
