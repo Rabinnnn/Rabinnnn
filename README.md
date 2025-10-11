@@ -20,8 +20,8 @@ As a software developer, I specialize in building dynamic applications and engag
 ✨ **Public Repositories**: 76 
 👥 **Followers**: 62  
 👤 **Following**: 63  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabinnnn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabinnnn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-gamma-one-15.vercel.app/api?username=Rabinnnn&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-gamma-one-15.vercel.app/?username=rabinnnn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
