@@ -11,15 +11,19 @@ As a software developer, I specialize in building dynamic applications and engag
 [![My Skills](https://skillicons.dev/icons?i=go,js,html,css,bootstrap,laravel,php,django,sqlite,git,docker,androidstudio,figma,linux,react,tailwind&perline=8)](https://skillicons.dev)
 
 ## Top Projects
-* [Chat forum](https://github.com/Rabinnnn/forum)
 ![Chat Forum](rum.png)
 
+* [Chat forum](https://github.com/Rabinnnn/forum)
+
   - A lightweight discussion platform that allows users to create topics, post messages, and engage in threaded conversations. **Tech stack:** Golang, SQLite, HTML, CSS
+
 
 ![Land Use Change Analysis](web1.png)
 
 * [land_use_change_analysis](https://github.com/Rabinnnn/land_use_change_analysis)
   - A platform that analyzes the changes that have taken place over time in terms of land usage. **Tech stack:** Django, HTML, CSS, JavaScript
+
+  
 * [Netfix](https://github.com/Rabinnnn/netfix)
   - A platform where companies can advertise the services that they provide and consumers can easily make requests. **Tech stack:** Django, SQLite, Bootstrap, HTML, JavaScript.
 
